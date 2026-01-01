@@ -1,1 +1,5 @@
 pyrubi
+requests
+beautifulsoup4
+jdatetime
+py-mini-racer
