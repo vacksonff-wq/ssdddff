@@ -1,0 +1,16 @@
+{
+    "auth": "zwwbhupqruawfjgtiramrpkcidfwoatc",
+    "private_key": "-----BEGIN RSA PRIVATE KEY-----\nMIICXAIBAAKBgQC1vLODo051HWzSNT7CibIIWqsR64BGFHO/Mv/PqdBFZXJnXqwF\nb0H/hQO09cUIely2/4FvV2WYcRll6R/mGu9SyQLCmnTHZXorQKLWRBPlf2nASdg4\nLcugnBXkn91WETqV3cfSeRbffLxD7rpvb8zlCppxL8U6RNZJGpIrivCsDwIDAQAB\nAoGAV/VPkOuuImKuc4LPsEoCf6aaW172w3RMnQJq6zAOHDhASaV5blvtvmS7aY71\n4OeQDgXVuHS9OC2tFDTjenQY1c7pawZTrTbBCZB20wUcF6VKNzKYzrd+5yCKojuq\nAJnUwac9U4PN43MlhiiFVVeEqjUm6CJs1Z/Pk4jCMAORYpkCQQC9kn7baNaoib6z\nmpweMqO9mcWajJ4la1j+sdxiHlM5p7IrtVGi5XPcYbRWN5ZTiRcAKZ8OHqmNZKB2\nDxYSX751AkEA9WtbqY5q9blKEW6BYcwSouC9Dpy+Y7ms/11wqvWTfVarMxPHy3Sd\nz498u9doYK58479+TgAWRrdrrCxtwpz38wJALTYZBx7zwvJHBvKitRkCsB9SX0+W\nD/qQGP42PzhYRPHXrlDqDV2HylGK/tz2/yk80Q8cHfP2IACVvFJQw0UOWQJBAI6s\nvzkvhpccBSdlKuqEDUGLjd102mp3g09iLyH0aq4vOJAVK83oGeaU8Frzu8aZKhnt\nNax6+HhcIciSe6zsPGkCQECI9WXv4MipJwHoNko0uZcELM96PipYoENLJn+bqSOd\nPOjWs/hngtmJt04Ij6BYbJYtXp+dV7/BLCrDRGWURgo=\n-----END RSA PRIVATE KEY-----",
+    "user": {
+        "user_guid": "u0HQxv10b0f0febd407ff1e36118e9fd",
+        "first_name": "Gggg",
+        "phone": "989164349715",
+        "last_online": 1723207891,
+        "is_deleted": false,
+        "is_verified": false,
+        "online_time": {
+            "type": "Exact",
+            "exact_time": 1723207891
+        }
+    }
+}
